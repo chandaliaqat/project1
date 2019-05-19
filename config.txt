@@ -1,0 +1,4 @@
+
+C:\localRepo>git config --global user.name "Nizam Mahmood"
+
+C:\localRepo>git config --global user.email "nizam@digitalpoint.tech"
